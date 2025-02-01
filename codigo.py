@@ -5,4 +5,5 @@ print(df)
 print(df.dtypes)
 print(df.shape) 
 
+# ayuda para saber como se utiliza una funcion
 help(pd.merge)
