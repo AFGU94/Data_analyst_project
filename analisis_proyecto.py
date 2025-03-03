@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import missingno as msno
 
-filename = ("PROYECTO U CALDAS/Datos de la vivienda.CSV")
-filename2 = ('PROYECTO U CALDAS/Tecnologías de información y comunicación (1).CSV')
+filename = ("Datos de la vivienda.CSV")
+filename2 = ('Tecnologías de información y comunicación (1).CSV')
 data = pd.read_csv(filename, delimiter=';')
 data2 = pd.read_csv(filename2, delimiter=';')
 
