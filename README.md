@@ -13,7 +13,6 @@ Usage of pandas, matplotlib and missingno packages to treat an digest the two da
 
 ## Requirements
 
-* Python 3.8 or above
 * Pandas
 * Matplotlib
 * Missingno
